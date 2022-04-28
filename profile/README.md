@@ -1,6 +1,6 @@
-# We create digital experiences for making real your idea
+# We create digital experiences to make your idea come true
 
-We’re [BlackBox Vision](https://www.blackbox-vision.tech), a team of technology lovers, who believes in it as an engine for change.
+We’re [**BlackBox Vision**](https://www.blackbox-vision.tech), a technology lovers team, that believes in it as an engine to drive change.
 
-We help startups and large companies in the creation of experiences, to connect with their users through the development of high-impact Digital Products.
+**We help startups and large companies in the creation of experiences, to connect with their users through the development of high-impact Digital Products.**
 
