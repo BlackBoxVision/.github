@@ -1,63 +1,53 @@
-# Hi 👋 We’re BlackBox Vision — Digital Product Partners
+<div align="center">
 
-We create **user-centered digital products** that simplify complexity, solve critical challenges, and drive long-term business growth.
+<h1>BlackBox Vision</h1>
 
-Our work goes beyond code. We help companies clarify ideas, streamline processes, and build the **right product, at the right time, for the right reasons**.
+<p><strong>Nearshore MVP &amp; product studio for founders and growth teams.</strong></p>
 
-🌍 https://blackboxvision.com
+<p>We help you decide what to prove next — then ship the smallest thing that proves it.</p>
 
-## What We Do
+[Website](https://blackboxvision.com) · [Case studies](https://blackboxvision.com/case-studies/) · [Clutch 4.9/5](https://clutch.co/profile/blackbox-vision) · [LinkedIn](https://linkedin.com/company/blackboxvision) · [X](https://x.com/blackbox_vision)
 
-We operate at the intersection of product thinking, design, and engineering:
 
-- Product architecture & system design  
-- Frontend platforms at scale (React, React Native, micro-frontends)  
-- AI engineering, data pipelines & ETL  
-- Mobile engineering (Android & iOS)  
-- Cloud-native infrastructure (Docker, Kubernetes, CI/CD)  
-- Developer experience, tooling & reusable libraries  
-- Brand, UX & high-impact digital experiences  
+</div>
 
-We care deeply about how software is built in the context of **real products, real constraints, and real teams**.
+<br />
 
-## How We Help
+Founders don't fail because they build slowly. They fail because they spend months building the wrong thing. As a nearshore product studio, we start with the decision that protects your runway, then turn it into evidence from real users, buyers, or investors.
 
-### MVP Builders
-Validate ideas quickly through focused MVPs that produce real user feedback and actionable data.
+<br />
 
-### Product Scale
-Improve performance, reliability, and system design so growth doesn’t become a liability.
+**What we help you achieve**
 
-### Concept Lab
-Explore and validate emerging technologies through practical proof-of-concept initiatives.
+&nbsp;&nbsp;🚀&nbsp; **MVP development** — go from idea to first buyer signal in 8–12 weeks · [MVP Builders →](https://blackboxvision.com/services/mvp-builders/)
 
-### Brand & Website
-Design digital experiences that communicate clearly and convert better.
+&nbsp;&nbsp;📈&nbsp; **Product scaling** — find and fix the bottleneck traction exposed · [Product Scale →](https://blackboxvision.com/services/product-scale/)
 
-## Open Source
+&nbsp;&nbsp;🧪&nbsp; **AI proof of concept** — validate the technical bet before a big build · [Concept Lab →](https://blackboxvision.com/services/concept-lab/)
 
-Most repositories here are tools, components, and patterns we built while solving real problems during product development.
+&nbsp;&nbsp;🎯&nbsp; **Conversion-focused web design** — turn trust into better-qualified leads · [Brand & Website →](https://blackboxvision.com/services/brand-and-website/)
 
-👉 https://github.com/blackboxvision
+&nbsp;&nbsp;⚙️&nbsp; **AI engineering pods** — senior release capacity without losing code ownership · [Engineering →](https://blackboxvision.com/engineering/)
 
-Licensed under **MIT** unless stated otherwise.
+<br />
 
-## Careers
+**Proof it works**
 
-Want to build impactful digital products with us?
+&nbsp;&nbsp;•&nbsp; [**Pro-Athletes**](https://blackboxvision.com/case-studies/pro-athletes/) — a habit loop for **10,000+ athletes**, turning a calisthenics audience into recurring revenue
 
-🚀 https://careers.blackboxvision.com/
+&nbsp;&nbsp;•&nbsp; [**Acercando Naciones**](https://blackboxvision.com/case-studies/acercando-naciones/) — **300× more reach**, from 50 to 15,000 monthly users
 
-## Connect With Us
+&nbsp;&nbsp;•&nbsp; [**Finit**](https://blackboxvision.com/case-studies/finit/) — two academies unified into one trusted learning destination
 
-- X — **@blackbox_vision** → [x.com/blackbox_vision](https://x.com/blackbox_vision)  
-- Instagram — **@blackbox_vision** → [instagram.com/blackbox_vision](https://www.instagram.com/blackbox_vision/)  
-- LinkedIn — **BlackBoxVision** → [linkedin.com/company/blackboxvision](https://www.linkedin.com/company/blackboxvision/)  
-- Facebook — **BlackBoxVision** → [facebook.com/BlackBoxVision](https://www.facebook.com/BlackBoxVision/)
+<sub>5+ years · 50+ customers served · 75+ products shipped · trusted by teams at SURA, Coca-Cola, Banco Galicia, and Hospital Austral.</sub>
 
-## Have a project in mind?
+---
 
-Let’s talk.
+### Open source
 
-- 📩 hello@blackbox-vision.tech
-- 🌍 https://blackboxvision.com
+The repos here are tools, components, and patterns we built solving real product problems — MIT licensed unless noted. Explore the pinned projects below. If one helped your team, a star or an issue is always welcome.
+
+<div align="center">
+<br />
+<sub>Buenos Aires, Argentina · working across the Americas and Europe · <a href="mailto:hello@blackbox-vision.tech">hello@blackbox-vision.tech</a></sub>
+</div>
